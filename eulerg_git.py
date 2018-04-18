@@ -2,8 +2,13 @@
 """
 Created on Wed Apr 18 13:47:14 2018
 
-@author: alquine
+@author: taculin
 """
+
+# =============================================================================
+# The main function of this file returns the set of edges to be added to a non-eulerian graph to make it eulerian
+# main function: main (bottom part)
+# =============================================================================
 
 
 
