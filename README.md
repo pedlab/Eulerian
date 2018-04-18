@@ -17,4 +17,5 @@ The input is an adjacency matrix M
 
 Sample run
 >from toEulerian import am2ag
+
 >hier(M)
