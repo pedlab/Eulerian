@@ -1,11 +1,11 @@
 # Eulerian
 # Eulerian Network
 
- Repository of Eulerian functions
+Repository of Eulerian functions
 
- File 01: toEulerian 
- Given a non-eulerian graph G=(V,E), returns G'=(V,EUZ) where Z is the set of edges and G' is Eulerian.
- The input is an adjacency matrix M
+**File 01: toEulerian**
+Given a non-eulerian graph G=(V,E), returns G'=(V,EUZ) where Z is the set of edges and G' is Eulerian.
+The input is an adjacency matrix M
 
  Sample run
  >> toEuler(M)
