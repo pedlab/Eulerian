@@ -8,7 +8,7 @@ Given a non-eulerian graph G=(V,E), returns G'=(V,EUZ) where Z is the set of edg
 The input is an adjacency matrix M
 
 Sample run
-    toEuler(M)
+>toEuler(M)
 
 
 **File 02: heir** 
@@ -16,5 +16,5 @@ Implements the Hierholzers algorithm. Given a simple graph G, extracts the Euler
 The input is an adjacency matrix M
 
 Sample run
-    from toEulerian import am2ag
-    hier(M)
+>from toEulerian import am2ag
+>hier(M)
